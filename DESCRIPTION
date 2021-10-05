@@ -1,0 +1,19 @@
+Package: draft
+Title: draft for the real thing
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Esan",
+           family = "Hasan",
+           role = c("aut", "cre"),
+           email = "esan.hasan@students.mq.edu.au")
+Description: draft for the real thing.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Depends: 
+    R (>= 2.10)
